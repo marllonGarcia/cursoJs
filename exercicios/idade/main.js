@@ -8,4 +8,5 @@ const idade = 17
 
 // else console.log('Maior de idade')
 
+
 idade < 18 ? console.log(' Você é menor de idade') : console.log( 'Maior de idade.') 
